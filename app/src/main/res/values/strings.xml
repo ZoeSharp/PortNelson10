@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PortNelson1.0</string>
+    <string name="title_activity_home">home</string>
+    <string name="backBtn"><![CDATA[< Back]]></string>
+</resources>
