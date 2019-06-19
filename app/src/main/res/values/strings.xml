@@ -2,4 +2,8 @@
     <string name="app_name">PortNelson1.0</string>
     <string name="title_activity_home">home</string>
     <string name="backBtn"><![CDATA[< Back]]></string>
+    <string name="title_activity_home_page">Home_page</string>
+    <string name="newEntry">newEntry</string>
+    <string name="viewEntry">viewEntry</string>
+    <string name="Pending">Pending</string>
 </resources>
