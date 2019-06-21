@@ -6,4 +6,5 @@
     <string name="newEntry">newEntry</string>
     <string name="viewEntry">viewEntry</string>
     <string name="Pending">Pending</string>
+    <string name="title_activity_new__entries">New_Entries</string>
 </resources>
