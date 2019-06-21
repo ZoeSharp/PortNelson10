@@ -5,7 +5,7 @@
     <color name="colorGreen">#2BB673</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorYellow">#F9DC5C</color>
-
+    <color name="colorGrey">#bfbfbf</color>
     <color name="colorAccent">#FFFFFF</color>
     <color name="colorPrimaryDark">#FFFFFF</color>
 </resources>
