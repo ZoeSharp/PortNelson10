@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "466131441919",
+    "firebase_url": "https://portnelson10-c5649.firebaseio.com",
+    "project_id": "portnelson10-c5649",
+    "storage_bucket": "portnelson10-c5649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466131441919:android:4551684704f8abfc",
+        "android_client_info": {
+          "package_name": "com.example.portnelson10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466131441919-9j10905qb27dfstqu4kmeemkb5pg70bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.portnelson10",
+            "certificate_hash": "871b981db524942ce2d862f44b3b12e9bb9df08c"
+          }
+        },
+        {
+          "client_id": "466131441919-8g1n8hqqfjvlf69duhtrkef9tp7bptgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1WSVWK0BtO1Q8PNn4UujQbiU66jDidAk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466131441919-8g1n8hqqfjvlf69duhtrkef9tp7bptgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
