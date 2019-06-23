@@ -9,16 +9,49 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="434dp"
-        android:layout_height="363dp"
+        android:id="@+id/imageView2"
+        android:layout_width="445dp"
+        android:layout_height="358dp"
         android:adjustViewBounds="true"
-        android:cropToPadding="false"
+        android:background="@null"
         android:scaleType="fitCenter"
-        app:srcCompat="@drawable/HorizontalLogoWhite"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="0dp" />
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/HorizontalLogoWhite" />
 
+    <TextView
+        android:id="@+id/logintxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LOGIN"
+        android:textColor="@color/colorWhite"
+        android:textSize="30sp"
+        android:typeface="serif"
+        app:fontFamily="sans-serif-black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="225dp" />
 
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:singleLine="false"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="390dp" />
 
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="495dp" />
 </android.support.constraint.ConstraintLayout>
