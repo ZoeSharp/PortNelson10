@@ -87,7 +87,7 @@
         app:layout_constraintEnd_toStartOf="@+id/toolbar2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/toolbar2"
-        app:srcCompat="@drawable/blueBlocked" />
+        app:srcCompat="@drawable/blue_blocked" />
 
     <Button
         android:id="@+id/button"
@@ -117,7 +117,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/toolbar2"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/backButtoned" />
+        app:srcCompat="@drawable/back_buttoned" />
 
     <ImageButton
         android:id="@+id/imageButton3"
@@ -130,6 +130,6 @@
         app:layout_constraintEnd_toStartOf="@+id/toolbar2"
         app:layout_constraintStart_toEndOf="@+id/imageButton"
         app:layout_constraintTop_toBottomOf="@+id/button3"
-        app:srcCompat="@drawable/homeButton1" />
+        app:srcCompat="@drawable/home_button1" />
 
 </android.support.constraint.ConstraintLayout>
