@@ -87,7 +87,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/PortNelsonWhiteHorizontal" />
+        app:srcCompat="@drawable/port_nelson_white_horizontal" />
 
     <ImageButton
         android:id="@+id/homeButton"
@@ -100,6 +100,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/toolbar"
         app:layout_constraintTop_toBottomOf="@+id/toolbar"
-        app:srcCompat="@drawable/backButtoned" />
+        app:srcCompat="@drawable/back_buttoned" />
 
 </android.support.constraint.ConstraintLayout>

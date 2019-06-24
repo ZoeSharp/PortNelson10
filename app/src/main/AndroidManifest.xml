@@ -12,6 +12,7 @@
         <activity
             android:name=".New_Entries"
             android:label="@string/title_activity_new__entries"
+            android:parentActivityName=".Home_page"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity
             android:name=".Home_page"

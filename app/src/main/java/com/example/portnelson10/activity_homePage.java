@@ -10,12 +10,6 @@ public class activity_homePage extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_home_page);
-    }
-
-    public void backBtn(View view) {
-        Intent randomIntent = new Intent(activity_homePage.this, MainActivity.class);
-        startActivity(randomIntent);
-
+        setContentView(R.layout.activity_home_page1);
     }
 }
